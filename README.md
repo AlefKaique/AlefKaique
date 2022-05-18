@@ -13,7 +13,6 @@
   <img align="center" alt="Biel-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Biel-Delphi" height="50" width="50" src="https://img.icons8.com/officel/344/delphi-ide.png"/>
   <img align="center" alt="Biel-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Biel-TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     </div>
   
   ##
