@@ -38,13 +38,7 @@ Sou um desenvolvedor full-stack. Sempre buscando aprender novas tecnologias.
 
 ### Repositórios em destaque
 
-<div align="center">
-  <!-- Pins: ajuste os nomes dos repositórios abaixo conforme preferir -->
-  <img alt="AlefKaique repo" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=AlefKaique&theme=dark" />
-  <img alt="Projeto-Mobile---Estoque repo" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=Projeto-Mobile---Estoque&theme=dark" />
-  <img alt="React-NLW-curso repo" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=React-NLW-curso&theme=dark" />
-  <img alt="Projeto-Integrador---Faculdade repo" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=Projeto-Integrador---Faculdade&theme=dark" />
-</div>
+[![AlefKaique repo](https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=AlefKaique&theme=dark)](https://github.com/AlefKaique/AlefKaique) [![Projeto-Mobile---Estoque repo](https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=Projeto-Mobile---Estoque&theme=dark)](https://github.com/AlefKaique/Projeto-Mobile---Estoque) [![React-NLW-curso repo](https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=React-NLW-curso&theme=dark)](https://github.com/AlefKaique/React-NLW-curso) [![Projeto-Integrador---Faculdade repo](https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=Projeto-Integrador---Faculdade&theme=dark)](https://github.com/AlefKaique/Projeto-Integrador---Faculdade)
 
 > Observação: se os widgets de estatísticas (github-readme-stats / ghchart) não carregarem, eles podem estar temporariamente indisponíveis; abaixo há links de fallback.
 
