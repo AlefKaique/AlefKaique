@@ -1,6 +1,6 @@
 #  Olá! Bem-vindo ao meu Perfil
 
-Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e de qualidade. Sempre buscando aprender novas tecnologias e compartilhar conhecimento com a comunidade.
+Sou um desenvolvedor full-stack. Sempre buscando aprender novas tecnologias.
 
 ---
 
