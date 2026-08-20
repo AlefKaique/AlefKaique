@@ -1,10 +1,10 @@
-# 👋 Olá! Bem-vindo ao meu Perfil
+#  Olá! Bem-vindo ao meu Perfil
 
 Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e de qualidade. Sempre buscando aprender novas tecnologias e compartilhar conhecimento com a comunidade.
 
 ---
 
-## 💻 Tecnologias & Linguagens
+##  Tecnologias & Linguagens
 
 <div align="center">
   <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,7 +21,7 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e de 
 
 ---
 
-## 🛠️ Ferramentas & IDEs
+##  Ferramentas & IDEs
 
 <div align="center">
   <img alt="VS Code" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -33,7 +33,7 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e de 
 
 ---
 
-## 📊 Estatísticas
+##  Estatísticas
 
 <div align="center">
   <img width="49%" height="195em" src="https://github-readme-stats.vercel.app/api?username=AlefKaique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -42,27 +42,15 @@ Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e de 
 
 ---
 
-## 🎯 O que você encontrará aqui
+##  O que você encontrará aqui
 
-- 📚 Projetos pessoais e de aprendizado
-- 🔧 Ferramentas úteis e componentes reutilizáveis
-- 📖 Exemplos de código e boas práticas
-- 🌟 Contribuições para projetos open-source
-
+-  Projetos pessoais e de aprendizado
+-  Exemplos de código e boas práticas
+-  
 ---
 
 ## 📫 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlefKaique)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alef-kaique-8929a5232)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alefkaiquesantos@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlefKaique)
-
----
-
-<div align="center">
-  
-  **"O código não é apenas sobre máquinas. É sobre pessoas."** 💡
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=AlefKaique&color=blue)
-  
-</div>
