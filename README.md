@@ -39,13 +39,13 @@ Sou um desenvolvedor full-stack. Sempre buscando aprender novas tecnologias.
 
   <img 
     height="180em"
-    src="./profile/stats.svg"
+    src=".github/workflows/stats.svg"
     alt="Estatísticas do GitHub"
   />
 
   <img 
     height="180em"
-    src="./profile/top-langs.svg"
+    src=".github/workflows/top-langs.svg"
     alt="Tecnologias mais utilizadas"
   />
 
