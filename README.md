@@ -36,8 +36,19 @@ Sou um desenvolvedor full-stack. Sempre buscando aprender novas tecnologias.
 ##  Estatísticas
 
 <div align="center">
-  <img width="49%" height="195em" src="https://github-readme-stats.vercel.app/api?username=AlefKaique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefKaique&layout=compact&langs_count=7&theme=dark"/>
+
+  <img 
+    height="180em"
+    src="./profile/stats.svg"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img 
+    height="180em"
+    src="./profile/top-langs.svg"
+    alt="Tecnologias mais utilizadas"
+  />
+
 </div>
 
 ---
@@ -46,11 +57,11 @@ Sou um desenvolvedor full-stack. Sempre buscando aprender novas tecnologias.
 
 -  Projetos pessoais e de aprendizado
 -  Exemplos de código e boas práticas
--  
+  
 ---
 
 ## 📫 Entre em Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alef-kaique-8929a5232)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alef-kaique-8929a5232/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alefkaiquesantos@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlefKaique)
