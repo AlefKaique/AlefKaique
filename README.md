@@ -39,13 +39,13 @@ Sou um desenvolvedor full-stack. Sempre buscando aprender novas tecnologias.
 
   <img 
     height="180em"
-    src=".github/workflows/stats.svg"
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark"
     alt="Estatísticas do GitHub"
   />
 
   <img 
     height="180em"
-    src=".github/workflows/top-langs.svg"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"
     alt="Tecnologias mais utilizadas"
   />
 
