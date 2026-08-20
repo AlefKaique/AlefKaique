@@ -38,32 +38,6 @@ Sou um desenvolvedor full-stack. Sempre buscando aprender novas tecnologias.
 
 ### Repositórios em destaque
 
-[![AlefKaique repo](https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=AlefKaique&theme=dark)](https://github.com/AlefKaique/AlefKaique) [![Projeto-Mobile---Estoque repo](https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=Projeto-Mobile---Estoque&theme=dark)](https://github.com/AlefKaique/Projeto-Mobile---Estoque) [![React-NLW-curso repo](https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=React-NLW-curso&theme=dark)](https://github.com/AlefKaique/React-NLW-curso) [![Projeto-Integrador---Faculdade repo](https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=Projeto-Integrador---Faculdade&theme=dark)](https://github.com/AlefKaique/Projeto-Integrador---Faculdade)
-
-> Observação: se os widgets de estatísticas (github-readme-stats / ghchart) não carregarem, eles podem estar temporariamente indisponíveis; abaixo há links de fallback.
-
-<div align="center">
-- Repositório principal: https://github.com/AlefKaique/AlefKaique
-- Projeto Mobile - Estoque: https://github.com/AlefKaique/Projeto-Mobile---Estoque
-- React NLW: https://github.com/AlefKaique/React-NLW-curso
-- Projeto Integrador: https://github.com/AlefKaique/Projeto-Integrador---Faculdade
-</div>
-
-### Tecnologias mais utilizadas
-
-<div align="center">
-  <!-- Badge de linguagens/tecnologias (Top Languages) -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefKaique&layout=compact&theme=dark" />
-</div>
-
-### 📊 Visão geral do GitHub
-
-<div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlefKaique&show_icons=true&theme=dark&count_private=true" />
-  <!-- Uso um fallback para o streak porque o serviço original às vezes fica indisponíveis -->
-  <img alt="GitHub Contributions" src="https://ghchart.rshah.org/AlefKaique" />
-</div>
-
 ---
 
 ##  O que você encontrará aqui
