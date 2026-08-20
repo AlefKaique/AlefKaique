@@ -21,25 +21,31 @@ Sou um desenvolvedor full-stack. Sempre buscando aprender novas tecnologias.
 
 ---
 
-##  Ferramentas & IDEs
-
-<div align="center">
-  <img alt="VS Code" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img alt="IntelliJ" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img alt="NetBeans" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-plain.svg">
-  <img alt="GitHub" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
-
----
-
 ##  Estatísticas
 
-## 📊 Estatísticas do GitHub
+### Repositórios em destaque
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlefKaique&show_icons=true&theme=dark&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlefKaique&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlefKaique&theme=dark)
+<div align="center">
+  <!-- Pins: ajuste os nomes dos repositórios abaixo conforme preferir -->
+  <img alt="AlefKaique repo" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=AlefKaique&theme=dark" />
+  <img alt="Projeto-Mobile---Estoque repo" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=Projeto-Mobile---Estoque&theme=dark" />
+  <img alt="React-NLW-curso repo" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=React-NLW-curso&theme=dark" />
+  <img alt="Projeto-Integrador---Faculdade repo" src="https://github-readme-stats.vercel.app/api/pin/?username=AlefKaique&repo=Projeto-Integrador---Faculdade&theme=dark" />
+</div>
+
+### Tecnologias mais utilizadas
+
+<div align="center">
+  <!-- Badge de linguagens/tecnologias (Top Languages) -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefKaique&layout=compact&theme=dark" />
+</div>
+
+### 📊 Visão geral do GitHub
+
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AlefKaique&show_icons=true&theme=dark&count_private=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AlefKaique&theme=dark" />
+</div>
 
 ---
 
