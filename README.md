@@ -1,42 +1,68 @@
-### Olá, Eu sou Alef ! dê uma olhada no meu perfil  👇:
+# 👋 Olá! Bem-vindo ao meu Perfil
 
-<br>
+Sou um desenvolvedor full-stack apaixonado por criar soluções inovadoras e de qualidade. Sempre buscando aprender novas tecnologias e compartilhar conhecimento com a comunidade.
+
+---
+
+## 💻 Tecnologias & Linguagens
+
+<div align="center">
+  <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="Kotlin" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
+  <img alt="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="HTML5" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="MySQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
+
+---
+
+## 🛠️ Ferramentas & IDEs
+
+<div align="center">
+  <img alt="VS Code" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img alt="IntelliJ" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+  <img alt="NetBeans" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-plain.svg">
+  <img alt="GitHub" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img alt="Docker" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img width="49%" height="195em" src="https://github-readme-stats.vercel.app/api?username=AlefKaique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefKaique&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+---
+
+## 🎯 O que você encontrará aqui
+
+- 📚 Projetos pessoais e de aprendizado
+- 🔧 Ferramentas úteis e componentes reutilizáveis
+- 📖 Exemplos de código e boas práticas
+- 🌟 Contribuições para projetos open-source
+
+---
+
+## 📫 Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AlefKaique)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlefKaique)
+
+---
+
+<div align="center">
   
-  ### Tecnologias 
+  **"O código não é apenas sobre máquinas. É sobre pessoas."** 💡
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Alef-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Alef-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Alef-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Alef-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Alef-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt="Alef-MySql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img align="center" alt="Alef-Delphi" height="50" width="50" src="https://img.icons8.com/officel/344/delphi-ide.png"/>
-  <img align="center" alt="Alef-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="Alef-React" height="50" width="50" src="https://icon.icepanel.io/Technology/svg/Kotlin.svg"/>  
-  </div>
+  ![Visitors](https://komarev.com/ghpvc/?username=AlefKaique&color=blue)
   
-  ##
-  
-  ### Ferramentas
-  
-  <div style="display: inline_block"><br>
-    
-   <img align="center" alt="Biel-VScode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-  <img align="center" alt="Biel-NetBeans" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/444px-Apache_NetBeans_Logo.svg.png?20180920122700"/>
-  
-    
-  </div>
-  
-  ##
-  
-  ### Estatísticas do Perfil:
-  
-  ###
-  
-  <br>
-  <div align="center">
-  <a href="https://github.com/AlefKaique">
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=AlefKaique&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlefKaique&layout=compact&langs_count=7&theme=algolia"/>
 </div>
